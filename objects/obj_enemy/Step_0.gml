@@ -6,5 +6,6 @@ if(instance_exists(obj_player))
 image_angle = direction;
 
 if(hp <= 0) {
+	with(obj_score) thescore += 5;
 	instance_destroy();
 }

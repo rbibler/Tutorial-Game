@@ -159,11 +159,27 @@
             }
         },
         {
+            "Key": "a1d28ebf-83d0-4abd-b6e8-bf909cd2cd16",
+            "Value": {
+                "id": "b500f72a-ef51-41f5-b80b-b5b7fc9ee8e9",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "a269f269-4e95-4d51-b980-6ebac5b3e212",
             "Value": {
                 "id": "653ab0c6-b595-4b7c-9e32-4173aaef0620",
                 "resourcePath": "views\\a269f269-4e95-4d51-b980-6ebac5b3e212.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ac12cae2-69ff-42d8-83ba-8ae78dcdd0b8",
+            "Value": {
+                "id": "8a9c13dd-3935-475b-bd2d-66c301c56ff2",
+                "resourcePath": "objects\\obj_score\\obj_score.yy",
+                "resourceType": "GMObject"
             }
         },
         {
